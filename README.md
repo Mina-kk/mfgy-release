@@ -1,4 +1,8 @@
-# mfgy-release\n\n当前版本：**1.1.7**（versionCode 152，强制更新）\n\n# mfgy 发布仓库（公开）
+# mfgy-release
+
+当前版本：**1.1.7**（versionCode 152，强制更新）
+
+# mfgy 发布仓库（公开）
 
 本仓库仅存放 **APK 与 update.json**，不含源码。
 
