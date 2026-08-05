@@ -1,6 +1,7 @@
 {
-  "versionName": "1.1.5",
-  "versionCode": 135,
-  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.1.5/mfgy-v1.1.5.apk",
-  "notes": "MD3液态玻璃界面；亮暗主题与自定义背景；存档库分区；分享保留命名；整库导出/恢复；公开仓强制更新；点立即更新后退出应用；返回仍拦截；权限按钮显隐；多镜像取最高版本（自1.0.21起）"
+  "versionName": "1.1.7",
+  "versionCode": 152,
+  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.1.7/mfgy-v1.1.7.apk",
+  "notes": "1.1.7 强制更新：订阅源管理；创建/绑定仓库后强制公开；下载走对方仓库；实体档1/2/3；社区30s刷新；分支探测与私有仓提示。",
+  "force": true
 }
