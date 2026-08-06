@@ -1,0 +1,7 @@
+{
+  "versionName": "1.1.10-private-test",
+  "versionCode": 155,
+  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.1.10-private-test/mfgy-v1.1.10.apk",
+  "notes": "【私测强制更新】目标 1.1.10/155：启动页10s免责声明；国内镜像测速选源；下载次数；社区静默刷新。正式 update.json 仍为 1.1.7/152，不受影响。",
+  "force": true
+}
