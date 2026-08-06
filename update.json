@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.7",
-  "versionCode": 152,
-  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.1.7/mfgy-v1.1.7.apk",
-  "notes": "1.1.7 强制更新：订阅源管理；创建/绑定仓库后强制公开；下载走对方仓库；实体档1/2/3；社区30s刷新；分支探测与私有仓提示。",
+  "versionName": "1.1.16",
+  "versionCode": 161,
+  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.1.16/mfgy-v1.1.16.apk",
+  "notes": "1.1.16：社区本地上传逐项命名（对齐存档库）；合集下载导入按包内名称预填，不再标题-序号；兼容旧合集包。",
   "force": true
 }

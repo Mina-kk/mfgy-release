@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.13",
-  "versionCode": 158,
-  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.1.13-private-test/mfgy-v1.1.13.apk",
-  "notes": "私人测试：本地上传逐项命名（与存档库导入一致）+ 强制更新从 apkUrl 解析 tag 修复 404。正式通道未动。",
+  "versionName": "1.1.16",
+  "versionCode": 161,
+  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.1.16/mfgy-v1.1.16.apk",
+  "notes": "1.1.16 正式公开：社区本地上传逐项命名 + 合集下载导入名称对齐。",
   "force": true
 }
