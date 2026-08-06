@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.11",
-  "versionCode": 156,
-  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.1.11-private-test/mfgy-v1.1.11.apk",
-  "notes": "【私测强制更新】1.1.11/156：应用内下载+系统安装；镜像测速选源。正式 update.json 仍为 1.1.7/152。",
+  "versionName": "1.1.12",
+  "versionCode": 157,
+  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.1.12-private-test/mfgy-v1.1.12.apk",
+  "notes": "私人测试：社区下载/上传命名 + 强制更新安装后清理 APK。正式通道未动。",
   "force": true
 }
