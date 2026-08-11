@@ -32,3 +32,9 @@ App 启动时与回到前台时会请求本仓库 `update.json`（多镜像，�
 - MD3 液态玻璃界面、亮暗主题、自定义背景
 - 底部导航（状态 / 存档库 / 备份 / 社区）与存档库分区
 - 社区本地上传逐项命名；合集下载导入名称对齐
+
+## 当前版本
+
+- **1.2.0 / 200** force:true
+- 国内默认下载：https://gitee.com/Mina-kk/mfgyapp
+- GitHub Release：https://github.com/Mina-kk/mfgy-release/releases/tag/v1.2.0

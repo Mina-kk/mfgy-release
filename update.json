@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.17",
-  "versionCode": 162,
-  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.1.17/mfgy-v1.1.17.apk",
-  "notes": "1.1.17：悬浮窗单面板接入九宫解密（点格填亮灭→求解）；云档列表上方进入/返回。force:true。国内可走 Gitee 镜像仓 Mina-kk/mfgyapp。",
-  "force": true
+  "versionName": "1.2.0",
+  "versionCode": 200,
+  "force": true,
+  "notes": "1.2.0：强制更新默认走 Gitee 国内源；失败可选手动其他镜像。含 1.1.17 九宫解密。",
+  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.2.0/mfgy-v1.2.0.apk"
 }
