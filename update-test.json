@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.0",
-  "versionCode": 200,
+  "versionName": "1.2.1",
+  "versionCode": 201,
   "force": true,
-  "notes": "1.2.0：强制更新默认走 Gitee 国内源；失败可选手动其他镜像。含 1.1.17 九宫解密。",
-  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.2.0/mfgy-v1.2.0.apk"
+  "notes": "1.2.1：检测到更新后自动后台下载（通知栏进度，默认 Gitee）；完成后提示安装。失败再选手动其他源。",
+  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.2.1/mfgy-v1.2.1.apk"
 }
