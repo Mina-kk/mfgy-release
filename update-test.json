@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.3",
-  "versionCode": 203,
+  "versionName": "1.2.4",
+  "versionCode": 204,
   "force": true,
-  "notes": "1.2.3：主页 Tab / 悬浮面板切换改为更流畅的短交叉淡入淡出（约 60 帧友好）。",
-  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.2.3/mfgy-v1.2.3.apk"
+  "notes": "【私测】1.2.4 强制更新测试：加固默认源下载（手动跟随302/多默认源自动重试）。仅 ftest 客户端读取本文件。",
+  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.2.4/mfgy-v1.2.4.apk"
 }
