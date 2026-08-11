@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.16",
-  "versionCode": 161,
-  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.1.16/mfgy-v1.1.16.apk",
-  "notes": "1.1.16：社区本地上传逐项命名（对齐存档库）；合集下载导入按包内名称预填，不再标题-序号；兼容旧合集包。",
+  "versionName": "1.1.17",
+  "versionCode": 162,
+  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.1.17/mfgy-v1.1.17.apk",
+  "notes": "1.1.17：悬浮窗单面板接入九宫解密（点格填亮灭→求解）；云档列表上方进入/返回。force:true。国内可走 Gitee 镜像仓 Mina-kk/mfgyapp。",
   "force": true
 }
