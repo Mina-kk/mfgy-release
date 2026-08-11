@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.2",
-  "versionCode": 202,
+  "versionName": "1.2.3",
+  "versionCode": 203,
   "force": true,
-  "notes": "1.2.2：修复自动更新因安装权限中断下载；先后台下载，安装时再申请权限。",
-  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.2.2/mfgy-v1.2.2.apk"
+  "notes": "1.2.3：主页 Tab / 悬浮面板切换改为更流畅的短交叉淡入淡出（约 60 帧友好）。",
+  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.2.3/mfgy-v1.2.3.apk"
 }
