@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.3",
-  "versionCode": 203,
+  "versionName": "1.2.6",
+  "versionCode": 207,
   "force": true,
-  "notes": "1.2.3：主页 Tab / 悬浮面板切换改为更流畅的短交叉淡入淡出（约 60 帧友好）。",
-  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.2.3/mfgy-v1.2.3.apk"
+  "notes": "1.2.6：加固默认源下载（手动跟随重定向 + 多默认源自动重试），修复 Gitee CDN 链 404。",
+  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.2.6/mfgy-v1.2.6.apk"
 }

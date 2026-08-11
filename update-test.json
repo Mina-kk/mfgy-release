@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.5",
-  "versionCode": 206,
+  "versionName": "1.2.6",
+  "versionCode": 207,
   "force": true,
-  "notes": "【私测】1.2.5 强制更新测试：加固默认源下载（手动跟随302/多默认源自动重试）。仅 ftest(205) 读取本文件。",
-  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.2.5/mfgy-v1.2.5.apk"
+  "notes": "【私测同步】1.2.6 正式版已发布。加固默认源下载（手动跟随重定向 + 多默认源自动重试）。",
+  "apkUrl": "https://github.com/Mina-kk/mfgy-release/releases/download/v1.2.6/mfgy-v1.2.6.apk"
 }
